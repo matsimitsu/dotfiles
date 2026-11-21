@@ -1,0 +1,29 @@
+rex/.config/rex/init.lua
+  s_bee9cc91b172d6::t_bf605febb21194 1-7
+"rex/.config/rex/themes/AppSignal Dark"
+  s_750edf0c91729f::t_3f1819873715b5 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "463985e1150ecd8e083aa50425f093c3f04a5ee2",
+  "prompts": {},
+  "sessions": {
+    "s_750edf0c91729f": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9eede4a6-cd64-48b1-9c4c-cca31d8070ab",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Robert Beekman <robert@matsimitsu.nl>"
+    },
+    "s_bee9cc91b172d6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "697d690a-a00d-4684-89d5-497aa27ccd91",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Robert Beekman <robert@matsimitsu.nl>"
+    }
+  }
+}
